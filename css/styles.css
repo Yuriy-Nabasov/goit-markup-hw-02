@@ -109,13 +109,17 @@ a {
   letter-spacing: 0.02em;
 }
 
+.page-main-second {
+  background-color: #f4f4fd;
+}
+
 .page-main-second-title,
 .page-main-second-title {
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
   letter-spacing: 0.02em;
-  /*  text-align: center; */
+  text-align: center;
   color: #2e2f42;
 }
 
@@ -124,8 +128,9 @@ a {
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
-  /*  text-align: center; */
+  text-align: center;
   color: #2e2f42;
+  text-transform: capitalize;
 }
 
 .page-main-second-list-text {
@@ -133,7 +138,7 @@ a {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  /*  text-align: center; */
+  text-align: center;
 }
 
 .page-footer-text {
